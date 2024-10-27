@@ -4,12 +4,4 @@
 
 
 
-pip install opencv-python-headless
-pip install numpy
-pip install cvzone
-Ensure you have the following files in your project folder:
 
-carPark.mp4 (video file)
-carParkImg.png (static image of the parking lot)
-parkingspacepicker.py
-main.py
